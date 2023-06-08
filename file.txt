@@ -1,5 +1,5 @@
 Team Members:
-Dev1:Kanishk Yadav
+Dev1
 Dev2
 Dev3
 Manager
