@@ -27,3 +27,7 @@ This are the git commands you will need for this exercise.
 
 `git push `
 
+All the best.
+vsfsbsngndn
+nnnd
+f
