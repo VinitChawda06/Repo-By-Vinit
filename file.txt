@@ -1,8 +1,4 @@
 Team Members:
 Dev1:Tanmay Murkute
 Dev2: kanishk
-Manager
-
-Dev1
-Dev2
 Manager:Vinit Chawda
