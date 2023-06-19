@@ -8,7 +8,7 @@ In this exercise we will role play as team of 4 and practice git workflows.
 3. follow the speakers instructions.
 4. enjoy your learning!
 
-## commands 
+## Commands 
 This are the git commands you will need for this exercise.  
 
 `git clone `
@@ -27,3 +27,4 @@ This are the git commands you will need for this exercise.
 
 `git push `
 
+All the best.
