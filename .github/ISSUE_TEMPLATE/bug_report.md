@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
+---
+
 <!--
 🐞 Welcome to the Bug Report! 🐛
 
@@ -51,4 +60,3 @@ Please use the following format for the title: [Bug] Brief description of the is
 Your input helps us improve our application. 
 We will investigate the issue and provide updates as soon as possible. 
 -->
-
