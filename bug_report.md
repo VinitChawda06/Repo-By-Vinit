@@ -1,3 +1,14 @@
+---
+name: Bug Report
+about: Use this template for reporting bugs.
+title: "[Bug]: [DATE]"
+labels: bug, needs triage
+assignees: [your GitHub username]
+
+---
+
+
+
 <!--
 🐞 Welcome to the Bug Report! 🐛
 

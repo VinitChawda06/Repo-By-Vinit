@@ -1,3 +1,13 @@
+--- 
+
+name: Feature Request
+about: Use this template for submitting new feature requests.
+title: "[FEATURE NAME]: [DATE]"
+labels: feature request, needs review
+assignees: [your GitHub username]
+
+---
+
 # Feature Request
 
 🎉 Thank you for taking the time to submit a feature request! 🎉
